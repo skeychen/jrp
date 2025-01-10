@@ -1,0 +1,8 @@
+{
+    "remoteAddr":"0.0.0.0",
+    "remotePort":6100,
+    "targetAddr":"0.0.0.0",
+    "targetPort":6101,
+    "timeout":2000,
+    "enableLog":true
+}
